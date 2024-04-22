@@ -1,0 +1,13 @@
+.navbar {
+  background-color: transparent;  
+  border: 1px solid rgb(255, 255, 255, .2);
+}
+  
+  .navbar-nav .nav-link {
+    color: white; /* Cor do texto branco */
+  }
+  
+ 
+  .navbar-logo {
+    height: 34px; 
+  }
